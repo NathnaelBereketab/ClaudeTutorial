@@ -1,6 +1,6 @@
 # Pomodoro Timer
 
-A modern, web-based Pomodoro timer built with **HTML, CSS, and Vanilla JavaScript** (no frameworks or libraries).
+A modern, web-based Pomodoro timer built with **HTML, CSS, and Vanilla JavaScript** (no frameworks or libraries). This was made using Google AntiGravity.
 
 The Pomodoro Technique is a study/work method where you focus for a set block of time (traditionally 25 minutes), then take a short break. This app counts down that focus block and plays a sound when it's time for a break.
 
